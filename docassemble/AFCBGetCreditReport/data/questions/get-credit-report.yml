@@ -82,5 +82,8 @@ sets: computer_credit
 question: |
   Ok
 subquestion: |
-  Maybe you have another question about debt. Checkout the [Consumer section on MassLegalHelp](https://masslegalhelp.org/consumer).
+  Maybe you have another question about debt. Check out the [Consumer section on MassLegalHelp](https://masslegalhelp.org/consumer).
 field: great_day
+buttons:
+  - Exit: exit
+  - Restart: restart
